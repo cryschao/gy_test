@@ -1,8 +1,8 @@
 # Logs
 logs
 *.log
-
-# Runtime data
+ 
+# Runtime dat
 pids
 *.pid
 *.seed
